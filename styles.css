@@ -236,13 +236,12 @@
   border: 1px solid #0070f3;
 }  
   .hero-image {
-    flex: 1;
-    display: flexbox;
-    justify-content: right;
-    align-items: right end;
-    z-index: 1;
-  }
-  
+  flex: 1;
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+  z-index: 1;
+} 
   .profile-round img {
     width: 300px;
     height: 350px;
