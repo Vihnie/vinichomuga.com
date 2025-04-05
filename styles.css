@@ -173,10 +173,6 @@
   .nav-links a.active::after {
     width: 100%;
   }
-  
-
-
-
   .hamburger {
     display: none;
     cursor: none;
@@ -192,13 +188,15 @@
 
 
 
+
+
   /* Hero Section */
   .hero {
     height: auto;
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 5%;
+    padding: 4%;
     background-color: var(--light-color);
     position: relative;
     overflow: hidden;
