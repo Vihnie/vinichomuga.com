@@ -253,8 +253,8 @@
   }
   
   .profile-round img {
-    width: 300px;
-    height: 350px;
+    width: 250px;
+    height: 250px;
     border-radius: 30%;
     object-fit: cover; 
     border: 5px solid mediumvioletred; 
@@ -263,8 +263,8 @@
     background-position: center;
 }
 .logo {
-  width: 450px;
-  height: 450px;
+  width: 260px;
+  height: 260px;
   border-radius: 30%;
   object-fit: cover; 
   border: 3px solid mediumvioletred; 
