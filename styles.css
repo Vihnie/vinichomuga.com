@@ -194,7 +194,7 @@
 
   /* Hero Section */
   .hero {
-    height: 75vh;
+    height: auto;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -258,7 +258,7 @@
     border-radius: 30%;
     object-fit: cover; 
     border: 5px solid mediumvioletred; 
-    background-image: url("/placeholder.svg?height=350&width=300");
+    background-image: url("/placeholder.svg?height=250&width=250");
     background-size: cover; 
     background-position: center;
 }
