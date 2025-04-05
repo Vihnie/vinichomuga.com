@@ -194,7 +194,7 @@
 
   /* Hero Section */
   .hero {
-    height: 70vh;
+    height: 75vh;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -262,13 +262,8 @@
     background-size: cover; 
     background-position: center;
 }
-.logo {
-  width: 260px;
-  height: 260px;
-  border-radius: 30%;
-  object-fit: cover; 
-  border: 3px solid mediumvioletred; 
-}
+
+
 
   
 
