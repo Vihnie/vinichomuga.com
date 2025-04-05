@@ -262,6 +262,14 @@
     background-size: cover; 
     background-position: center;
 }
+.logo {
+  width: 450px;
+  height: 450px;
+  border-radius: 30%;
+  object-fit: cover; 
+  border: 3px solid mediumvioletred; 
+}
+
 
 
 
